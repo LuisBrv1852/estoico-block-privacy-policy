@@ -1,4 +1,4 @@
-# estoico-block-privacy-policy
+# Estoico block privacy policy
 Política de privacidad de la aplicación Estoico Block.
 
 Política de Privacidad de Estoico Block
